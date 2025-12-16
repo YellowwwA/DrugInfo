@@ -1,0 +1,26 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.Production.json
+
+## EF Core
+Migrations/*.csproj
+*.db
+*.sqlite
+
+## Logs
+*.log
+
+## OS files
+.DS_Store
+Thumbs.db
